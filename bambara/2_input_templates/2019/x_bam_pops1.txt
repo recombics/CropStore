@@ -1,0 +1,6 @@
+TigaNecuru_x_DipC	RIL	Vigna	subterranea	TigaNecuru	DipC	TigaNecuru_x_DipC	Segregating mapping population of RILs	unspecified	unspecified	NOTT	NOTT_Sean_Mayes	
+IITA686_x_LunT	RIL	Vigna	subterranea	IITA686	LunT	IITA686_x_LunT	Segregating mapping population of RILs	unspecified	unspecified	NOTT	NOTT_Sean_Mayes	
+S19_x_Ankpa4	RIL	Vigna	subterranea	S19	Ankpa4	S19_x_Ankpa4	Segregating mapping population of RILs	unspecified	unspecified	NOTT	NOTT_Sean_Mayes	
+DipC x Ankpa4	RIL	Vigna	subterranea	DipC	Ankpa4	DipC_x_Ankpa4	Segregating mapping population of RILs	unspecified	unspecified	NOTT	NOTT_Sean_Mayes	
+IITA686_x_Ankpa4	RIL	Vigna	subterranea	IITA686	Ankpa4	IITA686_x_Ankpa4	Segregating mapping population of RILs	unspecified	unspecified	NOTT	NOTT_Sean_Mayes	
+Ankpa4_x_IITA686	RIL	Vigna	subterranea	Ankpa4	IITA686	Ankpa4_x_IITA686	Segregating mapping population of RILs	unspecified	unspecified	NOTT	NOTT_Sean_Mayes	

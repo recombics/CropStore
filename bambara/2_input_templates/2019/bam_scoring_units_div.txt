@@ -1,0 +1,865 @@
+su_cff19_VsN000110_001	P2_CFF_2018	df_Phase2_2018_001	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_002	P2_CFF_2018	df_Phase2_2018_001	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_003	P2_CFF_2018	df_Phase2_2018_001	VsN000110	whole_plant	1	120	120	2018	VsN000112	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_004	P2_CFF_2018	df_Phase2_2018_005	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_005	P2_CFF_2018	df_Phase2_2018_005	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_006	P2_CFF_2018	df_Phase2_2018_005	VsN000110	whole_plant	1	120	120	2018	VsN000113	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_007	P2_CFF_2018	df_Phase2_2018_009	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_008	P2_CFF_2018	df_Phase2_2018_009	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_009	P2_CFF_2018	df_Phase2_2018_009	VsN000110	whole_plant	1	120	120	2018	VsN000114	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_010	P2_CFF_2018	df_Phase2_2018_017	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_011	P2_CFF_2018	df_Phase2_2018_017	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_012	P2_CFF_2018	df_Phase2_2018_017	VsN000110	whole_plant	1	120	120	2018	VsN000115	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_013	P2_CFF_2018	df_Phase2_2018_013	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_014	P2_CFF_2018	df_Phase2_2018_013	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_015	P2_CFF_2018	df_Phase2_2018_013	VsN000110	whole_plant	1	120	120	2018	VsN000116	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_016	P2_CFF_2018	df_Phase2_2018_015	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_017	P2_CFF_2018	df_Phase2_2018_015	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_018	P2_CFF_2018	df_Phase2_2018_015	VsN000110	whole_plant	1	120	120	2018	VsN000117	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_019	P2_CFF_2018	df_Phase2_2018_025	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_020	P2_CFF_2018	df_Phase2_2018_025	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_021	P2_CFF_2018	df_Phase2_2018_025	VsN000110	whole_plant	1	120	120	2018	VsN000118	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_022	P2_CFF_2018	df_Phase2_2018_021	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_023	P2_CFF_2018	df_Phase2_2018_021	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_024	P2_CFF_2018	df_Phase2_2018_021	VsN000110	whole_plant	1	120	120	2018	VsN000119	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_025	P2_CFF_2018	df_Phase2_2018_020	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_026	P2_CFF_2018	df_Phase2_2018_020	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_027	P2_CFF_2018	df_Phase2_2018_020	VsN000110	whole_plant	1	120	120	2018	VsN000120	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_028	P2_CFF_2018	df_Phase2_2018_036	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_029	P2_CFF_2018	df_Phase2_2018_036	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_030	P2_CFF_2018	df_Phase2_2018_036	VsN000110	whole_plant	1	120	120	2018	VsN000121	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_031	P2_CFF_2018	df_Phase2_2018_028	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_032	P2_CFF_2018	df_Phase2_2018_028	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_033	P2_CFF_2018	df_Phase2_2018_028	VsN000110	whole_plant	1	120	120	2018	VsN000122	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_034	P2_CFF_2018	df_Phase2_2018_032	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_035	P2_CFF_2018	df_Phase2_2018_032	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_036	P2_CFF_2018	df_Phase2_2018_032	VsN000110	whole_plant	1	120	120	2018	VsN000123	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-10-30	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_037	P2_CFF_2018	df_Phase2_2018_040	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_038	P2_CFF_2018	df_Phase2_2018_040	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_039	P2_CFF_2018	df_Phase2_2018_040	VsN000110	whole_plant	1	120	120	2018	VsN000124	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_040	P2_CFF_2018	df_Phase2_2018_042	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_041	P2_CFF_2018	df_Phase2_2018_042	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_042	P2_CFF_2018	df_Phase2_2018_042	VsN000110	whole_plant	1	120	120	2018	VsN000125	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_043	P2_CFF_2018	df_Phase2_2018_038	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_044	P2_CFF_2018	df_Phase2_2018_038	VsN000110	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000110_045	P2_CFF_2018	df_Phase2_2018_038	VsN000110	whole_plant	1	120	120	2018	VsN000126	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_001	P2_CFF_2019	df_Phase2_2018_002	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_002	P2_CFF_2020	df_Phase2_2018_002	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_003	P2_CFF_2021	df_Phase2_2018_002	VsN000109	whole_plant	1	120	120	2018	VsN000142	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_004	P2_CFF_2022	df_Phase2_2018_007	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_005	P2_CFF_2023	df_Phase2_2018_007	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_006	P2_CFF_2024	df_Phase2_2018_007	VsN000109	whole_plant	1	120	120	2018	VsN000143	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_007	P2_CFF_2025	df_Phase2_2018_003	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_008	P2_CFF_2026	df_Phase2_2018_003	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_009	P2_CFF_2027	df_Phase2_2018_003	VsN000109	whole_plant	1	120	120	2018	VsN000144	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_010	P2_CFF_2028	df_Phase2_2018_010	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_011	P2_CFF_2029	df_Phase2_2018_010	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_012	P2_CFF_2030	df_Phase2_2018_010	VsN000109	whole_plant	1	120	120	2018	VsN000145	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_013	P2_CFF_2031	df_Phase2_2018_014	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_014	P2_CFF_2032	df_Phase2_2018_014	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_015	P2_CFF_2033	df_Phase2_2018_014	VsN000109	whole_plant	1	120	120	2018	VsN000146	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_016	P2_CFF_2034	df_Phase2_2018_018	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_017	P2_CFF_2035	df_Phase2_2018_018	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_018	P2_CFF_2036	df_Phase2_2018_018	VsN000109	whole_plant	1	120	120	2018	VsN000147	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_019	P2_CFF_2037	df_Phase2_2018_022	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_020	P2_CFF_2038	df_Phase2_2018_022	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_021	P2_CFF_2039	df_Phase2_2018_022	VsN000109	whole_plant	1	120	120	2018	VsN000148	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_022	P2_CFF_2040	df_Phase2_2018_024	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_023	P2_CFF_2041	df_Phase2_2018_024	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_024	P2_CFF_2042	df_Phase2_2018_024	VsN000109	whole_plant	1	120	120	2018	VsN000149	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_025	P2_CFF_2043	df_Phase2_2018_026	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_026	P2_CFF_2044	df_Phase2_2018_026	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_027	P2_CFF_2045	df_Phase2_2018_026	VsN000109	whole_plant	1	120	120	2018	VsN000150	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_028	P2_CFF_2046	df_Phase2_2018_034	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_029	P2_CFF_2047	df_Phase2_2018_034	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_030	P2_CFF_2048	df_Phase2_2018_034	VsN000109	whole_plant	1	120	120	2018	VsN000151	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_031	P2_CFF_2049	df_Phase2_2018_030	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_032	P2_CFF_2050	df_Phase2_2018_030	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_033	P2_CFF_2051	df_Phase2_2018_030	VsN000109	whole_plant	1	120	120	2018	VsN000152	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_034	P2_CFF_2052	df_Phase2_2018_035	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_035	P2_CFF_2053	df_Phase2_2018_035	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_036	P2_CFF_2054	df_Phase2_2018_035	VsN000109	whole_plant	1	120	120	2018	VsN000153	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_037	P2_CFF_2055	df_Phase2_2018_041	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_038	P2_CFF_2056	df_Phase2_2018_041	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_039	P2_CFF_2057	df_Phase2_2018_041	VsN000109	whole_plant	1	120	120	2018	VsN000154	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_040	P2_CFF_2058	df_Phase2_2018_037	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_041	P2_CFF_2059	df_Phase2_2018_037	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_042	P2_CFF_2060	df_Phase2_2018_037	VsN000109	whole_plant	1	120	120	2018	VsN000155	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_043	P2_CFF_2061	df_Phase2_2018_045	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_044	P2_CFF_2062	df_Phase2_2018_045	VsN000109	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000109_045	P2_CFF_2063	df_Phase2_2018_045	VsN000109	whole_plant	1	120	120	2018	VsN000156	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_001	P2_CFF_2064	df_Phase2_2018_006	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_002	P2_CFF_2065	df_Phase2_2018_006	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_003	P2_CFF_2066	df_Phase2_2018_006	VsN000111	whole_plant	1	120	120	2018	VsN000127	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_004	P2_CFF_2067	df_Phase2_2018_004	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_005	P2_CFF_2068	df_Phase2_2018_004	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_006	P2_CFF_2069	df_Phase2_2018_004	VsN000111	whole_plant	1	120	120	2018	VsN000128	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_007	P2_CFF_2070	df_Phase2_2018_008	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_008	P2_CFF_2071	df_Phase2_2018_008	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_009	P2_CFF_2072	df_Phase2_2018_008	VsN000111	whole_plant	1	120	120	2018	VsN000129	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_010	P2_CFF_2073	df_Phase2_2018_016	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_011	P2_CFF_2074	df_Phase2_2018_016	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_012	P2_CFF_2075	df_Phase2_2018_016	VsN000111	whole_plant	1	120	120	2018	VsN000130	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_013	P2_CFF_2076	df_Phase2_2018_012	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_014	P2_CFF_2077	df_Phase2_2018_012	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_015	P2_CFF_2078	df_Phase2_2018_012	VsN000111	whole_plant	1	120	120	2018	VsN000131	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_016	P2_CFF_2079	df_Phase2_2018_011	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_017	P2_CFF_2080	df_Phase2_2018_011	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_018	P2_CFF_2081	df_Phase2_2018_011	VsN000111	whole_plant	1	120	120	2018	VsN000132	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_019	P2_CFF_2082	df_Phase2_2018_019	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_020	P2_CFF_2083	df_Phase2_2018_019	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_021	P2_CFF_2084	df_Phase2_2018_019	VsN000111	whole_plant	1	120	120	2018	VsN000133	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_022	P2_CFF_2085	df_Phase2_2018_023	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_023	P2_CFF_2086	df_Phase2_2018_023	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_024	P2_CFF_2087	df_Phase2_2018_023	VsN000111	whole_plant	1	120	120	2018	VsN000134	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_025	P2_CFF_2088	df_Phase2_2018_027	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_026	P2_CFF_2089	df_Phase2_2018_027	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_027	P2_CFF_2090	df_Phase2_2018_027	VsN000111	whole_plant	1	120	120	2018	VsN000135	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_028	P2_CFF_2091	df_Phase2_2018_033	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_029	P2_CFF_2092	df_Phase2_2018_033	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_030	P2_CFF_2093	df_Phase2_2018_033	VsN000111	whole_plant	1	120	120	2018	VsN000136	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_031	P2_CFF_2094	df_Phase2_2018_031	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_032	P2_CFF_2095	df_Phase2_2018_031	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_033	P2_CFF_2096	df_Phase2_2018_031	VsN000111	whole_plant	1	120	120	2018	VsN000137	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_034	P2_CFF_2097	df_Phase2_2018_029	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_035	P2_CFF_2098	df_Phase2_2018_029	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_036	P2_CFF_2099	df_Phase2_2018_029	VsN000111	whole_plant	1	120	120	2018	VsN000138	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_037	P2_CFF_2100	df_Phase2_2018_044	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_038	P2_CFF_2101	df_Phase2_2018_044	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_039	P2_CFF_2102	df_Phase2_2018_044	VsN000111	whole_plant	1	120	120	2018	VsN000139	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_040	P2_CFF_2103	df_Phase2_2018_039	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_041	P2_CFF_2104	df_Phase2_2018_039	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_042	P2_CFF_2105	df_Phase2_2018_039	VsN000111	whole_plant	1	120	120	2018	VsN000140	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_043	P2_CFF_2106	df_Phase2_2018_043	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_044	P2_CFF_2107	df_Phase2_2018_043	VsN000111	whole_plant	1	1	120	2018	unspecified	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+su_cff19_VsN000111_045	P2_CFF_2108	df_Phase2_2018_043	VsN000111	whole_plant	1	120	120	2018	VsN000141	unspecified	unspecified	unspecified	unspecified	waikuanho	2019-11-05	unspecified	CFF	prepublication	unspecified							
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										

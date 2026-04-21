@@ -1,0 +1,865 @@
+Nav4_13_13	VsN000001	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000002	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000003	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000004	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000005	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000006	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000007	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000008	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000009	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000010	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000011	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000012	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000013	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000014	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000015	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000016	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000017	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000018	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000019	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000020	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000021	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000022	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000023	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000024	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000025	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000026	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000027	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000028	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000029	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000030	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000031	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000032	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000033	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000034	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000035	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000036	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000037	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000038	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000039	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000040	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000041	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000042	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000043	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000044	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000045	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000046	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000047	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000048	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000049	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000050	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000051	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000052	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000053	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000054	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000055	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000056	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000057	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000058	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000059	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000060	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000061	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000062	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000063	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13	VsN000064	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000065	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000066	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000067	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000068	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000069	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000070	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000071	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000072	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000073	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000074	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000075	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000076	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000077	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000078	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000079	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000080	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000081	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000082	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000083	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000084	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000085	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000086	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000087	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000088	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000089	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000090	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000091	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000092	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000093	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000094	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000095	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000096	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000097	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000098	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000099	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000100	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000101	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000102	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000103	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000104	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000105	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000106	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000107	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B	VsN000108	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686	VsN000109	Selfing	unspecified	NOTT	CFF	2017	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+bulk_Nav4_VsN1_64	VsN000110	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+bulk_20Acc118CIV_B_VsN65_108	VsN000111	Selfing	unspecified	NOTT	CFF	2016	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B1T1R1	VsN000112	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B1T1R2	VsN000113	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B1T1R3	VsN000114	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B2T1R1	VsN000115	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B2T1R2	VsN000116	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B2T1R3	VsN000117	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B3T1R1	VsN000118	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B3T1R2	VsN000119	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B3T1R3	VsN000120	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B4T1R1	VsN000121	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B4T1R2	VsN000122	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B4T1R3	VsN000123	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B5T1R1	VsN000124	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B5T1R2	VsN000125	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+Nav4_13_13_B5T1R3	VsN000126	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B1T3R1	VsN000127	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B1T3R2	VsN000128	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B1T3R3	VsN000129	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B2T3R1	VsN000130	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B2T3R2	VsN000131	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B2T3R3	VsN000132	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B3T3R1	VsN000133	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B3T3R2	VsN000134	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B3T3R3	VsN000135	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B4T3R1	VsN000136	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B4T3R2	VsN000137	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B4T3R3	VsN000138	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B5T3R1	VsN000139	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B5T3R2	VsN000140	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+20Acc118CIV_B5T3R3	VsN000141	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B1T2R1	VsN000142	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B1T2R2	VsN000143	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B1T2R3	VsN000144	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B2T2R1	VsN000145	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B2T2R2	VsN000146	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B2T2R3	VsN000147	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B3T2R1	VsN000148	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B3T2R2	VsN000149	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B3T2R3	VsN000150	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B4T2R1	VsN000151	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B4T2R2	VsN000152	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B4T2R3	VsN000153	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B5T2R1	VsN000154	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B5T2R2	VsN000155	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+IITA686_B5T2R3	VsN000156	Selfing	unspecified	NOTT	CFF	2018	self	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	unspecified	graham.king@scu.edu.au	2019-11-09	waikuanho	UoN	CC BY 4.0	unspecified				
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
